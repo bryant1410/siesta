@@ -1,4 +1,4 @@
-#Python Siesta
+# Python Siesta
 
      from siesta import API
      api = API('http://myrestful/api/v1')
@@ -16,7 +16,7 @@
      api.resource(id).resource_collection().get()
 
 
-##Other REST clients for python
+## Other REST clients for python
 
 *   pylib
 *   [*python-rest-client*](https://code.google.com/p/python-rest-client/)
